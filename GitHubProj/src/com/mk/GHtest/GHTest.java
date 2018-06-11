@@ -7,8 +7,6 @@ public class GHTest {
 		System.out.println("hiii");
 		System.out.println("nnn");
 
-		System.out.println("nnfffn");
-		System.out.println("nnfffn");
-	}
 
+}
 }
